@@ -1,0 +1,51 @@
+product_id,name,brand,category,store,country,price,unit,size,currency,url
+mx_soriana_1002,Arroz Blanco 1kg,Primor,arroz,Soriana,MX,34.0,kg,1,MXN,https://ejemplo.com/mx/arroz1/1002
+mx_walmart_1004,Aceite Vegetal 900ml,Premier,aceite,Walmart,MX,54.4,ml,900,MXN,https://ejemplo.com/mx/aceite900/1004
+mx_chedraui_1006,Leche Entera 1L,LaLechera,lacteos,Chedraui,MX,17.0,L,1,MXN,https://ejemplo.com/mx/leche1/1006
+mx_soriana_1008,Azucar Blanca 1kg,Incauca,azucar,Soriana,MX,30.6,kg,1,MXN,https://ejemplo.com/mx/azucar1/1008
+mx_walmart_1010,Atun en Agua 170g,VanCamps,atun,Walmart,MX,25.5,g,170,MXN,https://ejemplo.com/mx/atun170/1010
+br_carrefourbr_1002,Arroz Blanco 1kg,Primor,arroz,CarrefourBR,BR,10.4,kg,1,BRL,https://ejemplo.com/br/arroz1/1002
+br_paodeacucar_1004,Aceite Vegetal 900ml,Premier,aceite,PaoDeAcucar,BR,16.64,ml,900,BRL,https://ejemplo.com/br/aceite900/1004
+br_assai_1006,Leche Entera 1L,LaLechera,lacteos,Assai,BR,5.2,L,1,BRL,https://ejemplo.com/br/leche1/1006
+br_carrefourbr_1008,Azucar Blanca 1kg,Incauca,azucar,CarrefourBR,BR,9.36,kg,1,BRL,https://ejemplo.com/br/azucar1/1008
+br_paodeacucar_1010,Atun en Agua 170g,VanCamps,atun,PaoDeAcucar,BR,7.8,g,170,BRL,https://ejemplo.com/br/atun170/1010
+ar_disco_1002,Arroz Blanco 1kg,Primor,arroz,Disco,AR,1960.0,kg,1,ARS,https://ejemplo.com/ar/arroz1/1002
+ar_carrefourar_1004,Aceite Vegetal 900ml,Premier,aceite,CarrefourAR,AR,3136.0,ml,900,ARS,https://ejemplo.com/ar/aceite900/1004
+ar_jumboar_1006,Leche Entera 1L,LaLechera,lacteos,JumboAR,AR,980.0,L,1,ARS,https://ejemplo.com/ar/leche1/1006
+ar_disco_1008,Azucar Blanca 1kg,Incauca,azucar,Disco,AR,1764.0,kg,1,ARS,https://ejemplo.com/ar/azucar1/1008
+ar_carrefourar_1010,Atun en Agua 170g,VanCamps,atun,CarrefourAR,AR,1470.0,g,170,ARS,https://ejemplo.com/ar/atun170/1010
+co_olimpica_1002,Arroz Blanco 1kg,Primor,arroz,Olimpica,CO,8200.0,kg,1,COP,https://ejemplo.com/co/arroz1/1002
+co_exito_1004,Aceite Vegetal 900ml,Premier,aceite,Exito,CO,13120.0,ml,900,COP,https://ejemplo.com/co/aceite900/1004
+co_jumboco_1006,Leche Entera 1L,LaLechera,lacteos,JumboCO,CO,4100.0,L,1,COP,https://ejemplo.com/co/leche1/1006
+co_olimpica_1008,Azucar Blanca 1kg,Incauca,azucar,Olimpica,CO,7380.0,kg,1,COP,https://ejemplo.com/co/azucar1/1008
+co_exito_1010,Atun en Agua 170g,VanCamps,atun,Exito,CO,6150.0,g,170,COP,https://ejemplo.com/co/atun170/1010
+cl_jumbocl_1002,Arroz Blanco 1kg,Primor,arroz,JumboCL,CL,1900.0,kg,1,CLP,https://ejemplo.com/cl/arroz1/1002
+cl_lider_1004,Aceite Vegetal 900ml,Premier,aceite,Lider,CL,3040.0,ml,900,CLP,https://ejemplo.com/cl/aceite900/1004
+cl_santaisabel_1006,Leche Entera 1L,LaLechera,lacteos,SantaIsabel,CL,950.0,L,1,CLP,https://ejemplo.com/cl/leche1/1006
+cl_jumbocl_1008,Azucar Blanca 1kg,Incauca,azucar,JumboCL,CL,1710.0,kg,1,CLP,https://ejemplo.com/cl/azucar1/1008
+cl_lider_1010,Atun en Agua 170g,VanCamps,atun,Lider,CL,1425.0,g,170,CLP,https://ejemplo.com/cl/atun170/1010
+pe_metrope_1002,Arroz Blanco 1kg,Primor,arroz,MetroPE,PE,7.6,kg,1,PEN,https://ejemplo.com/pe/arroz1/1002
+pe_wong_1004,Aceite Vegetal 900ml,Premier,aceite,Wong,PE,12.16,ml,900,PEN,https://ejemplo.com/pe/aceite900/1004
+pe_tottus_1006,Leche Entera 1L,LaLechera,lacteos,Tottus,PE,3.8,L,1,PEN,https://ejemplo.com/pe/leche1/1006
+pe_metrope_1008,Azucar Blanca 1kg,Incauca,azucar,MetroPE,PE,6.84,kg,1,PEN,https://ejemplo.com/pe/azucar1/1008
+pe_wong_1010,Atun en Agua 170g,VanCamps,atun,Wong,PE,5.7,g,170,PEN,https://ejemplo.com/pe/atun170/1010
+ec_micomisariato_1002,Arroz Blanco 1kg,Primor,arroz,MiComisariato,EC,2.0,kg,1,USD,https://ejemplo.com/ec/arroz1/1002
+ec_supermaxi_1004,Aceite Vegetal 900ml,Premier,aceite,Supermaxi,EC,3.2,ml,900,USD,https://ejemplo.com/ec/aceite900/1004
+ec_aki_1006,Leche Entera 1L,LaLechera,lacteos,Aki,EC,1.0,L,1,USD,https://ejemplo.com/ec/leche1/1006
+ec_micomisariato_1008,Azucar Blanca 1kg,Incauca,azucar,MiComisariato,EC,1.8,kg,1,USD,https://ejemplo.com/ec/azucar1/1008
+ec_supermaxi_1010,Atun en Agua 170g,VanCamps,atun,Supermaxi,EC,1.5,g,170,USD,https://ejemplo.com/ec/atun170/1010
+cr_masxmenos_1002,Arroz Blanco 1kg,Primor,arroz,MasxMenos,CR,1080.0,kg,1,CRC,https://ejemplo.com/cr/arroz1/1002
+cr_automercado_1004,Aceite Vegetal 900ml,Premier,aceite,Automercado,CR,1728.0,ml,900,CRC,https://ejemplo.com/cr/aceite900/1004
+cr_walmartcr_1006,Leche Entera 1L,LaLechera,lacteos,WalmartCR,CR,540.0,L,1,CRC,https://ejemplo.com/cr/leche1/1006
+cr_masxmenos_1008,Azucar Blanca 1kg,Incauca,azucar,MasxMenos,CR,972.0,kg,1,CRC,https://ejemplo.com/cr/azucar1/1008
+cr_automercado_1010,Atun en Agua 170g,VanCamps,atun,Automercado,CR,810.0,g,170,CRC,https://ejemplo.com/cr/atun170/1010
+pa_reypa_1002,Arroz Blanco 1kg,Primor,arroz,ReyPA,PA,2.0,kg,1,USD,https://ejemplo.com/pa/arroz1/1002
+pa_super99_1004,Aceite Vegetal 900ml,Premier,aceite,Super99,PA,3.2,ml,900,USD,https://ejemplo.com/pa/aceite900/1004
+pa_ribasmith_1006,Leche Entera 1L,LaLechera,lacteos,RibaSmith,PA,1.0,L,1,USD,https://ejemplo.com/pa/leche1/1006
+pa_reypa_1008,Azucar Blanca 1kg,Incauca,azucar,ReyPA,PA,1.8,kg,1,USD,https://ejemplo.com/pa/azucar1/1008
+pa_super99_1010,Atun en Agua 170g,VanCamps,atun,Super99,PA,1.5,g,170,USD,https://ejemplo.com/pa/atun170/1010
+py_superseis_1002,Arroz Blanco 1kg,Primor,arroz,Superseis,PY,15200.0,kg,1,PYG,https://ejemplo.com/py/arroz1/1002
+py_stock_1004,Aceite Vegetal 900ml,Premier,aceite,Stock,PY,24320.0,ml,900,PYG,https://ejemplo.com/py/aceite900/1004
+py_realpy_1006,Leche Entera 1L,LaLechera,lacteos,RealPY,PY,7600.0,L,1,PYG,https://ejemplo.com/py/leche1/1006
+py_superseis_1008,Azucar Blanca 1kg,Incauca,azucar,Superseis,PY,13680.0,kg,1,PYG,https://ejemplo.com/py/azucar1/1008
+py_stock_1010,Atun en Agua 170g,VanCamps,atun,Stock,PY,11400.0,g,170,PYG,https://ejemplo.com/py/atun170/1010
